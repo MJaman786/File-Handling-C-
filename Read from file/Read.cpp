@@ -27,13 +27,13 @@ int main () {
    			 while ( getline (cin,srg) )  
         {  
      	    cout << srg <<endl;  
-   			}  
-   			file.close();  
+   			  }  
+   			  file.close();  
  		 }  
   	else 
       {  
       	cout << "File opening is fail."<<endl;   
-  		}  
+  		  }  
   
   return 0;  
 }  
